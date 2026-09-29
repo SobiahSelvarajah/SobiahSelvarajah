@@ -1,45 +1,53 @@
-# Hi, I'm Sobiah 👋
+# Hi, I'm Sobiah 🌸
 
-### Full-Stack Developer
+### Full-Stack Developer 👩🏽‍💻
 
-I build responsive, user-focused web applications using React, Next.js and TypeScript.
+I love turning ideas into thoughtful, user-friendly web applications using React, Next.js and TypeScript.
 
-My projects cover the full development process, from designing accessible interfaces and integrating external APIs to building database-backed features, server-side validation and transactional email flows.
+I enjoy working across the full development process — from shaping responsive, accessible interfaces to integrating APIs and building reliable database-backed features. I’m especially drawn to the little details that make an application feel clear, welcoming and enjoyable to use.
 
-I'm currently seeking a development opportunity where I can contribute meaningful work, solve practical problems and continue growing as part of a collaborative team.
+I'm currently looking for a development opportunity where I can contribute meaningful work, solve practical problems and continue growing alongside a kind, collaborative team.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sobiah.com-38bdf8?style=for-the-badge&logo=vercel&logoColor=white)](https://sobiah.com)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-38bdf8?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:sobiahselvarajah@hotmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sobiah.com-8B7AA8?style=flat&logo=vercel&logoColor=white)](https://sobiah.com)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-B07A8E?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:sobiahselvarajah@hotmail.com)
 
-## Technical Skills
+## Technical Skills 🛠️
 
 ### Frontend
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-6855E0?style=flat&logo=framer&logoColor=white)
 
 ### Backend & Databases
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-38BDF8?style=flat-square&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=nodedotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3C4555?style=flat&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-526D9A?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-527F91?style=flat&logo=mysql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-6D9CAD?style=flat&logoColor=white)
 
 ### Tools & Deployment
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Git](https://img.shields.io/badge/Git-C96B55?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-33343B?style=flat&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-33343B?style=flat&logo=vercel&logoColor=white)
+![npm](https://img.shields.io/badge/npm-B85C5C?style=flat&logo=npm&logoColor=white)
 
-## Featured Projects
+## A Little More About Me 🪷
+
+- 📐 I have a background in mathematics and love working through problems step by step
+- 📚 I'm an enthusiastic reader and enjoy learning languages
+- 🎹 Away from my laptop, you'll often find me playing the piano, dancing or trying a new recipe
+- ✨ I care about building things that feel as lovely to use as they are reliable behind the scenes
+- 🌱 I'm always learning, experimenting and looking for ways to make my work better
+
+## A Few Things I've Loved Building 💻
 
 ### 📚 BookDrop
 
@@ -65,33 +73,18 @@ A responsive weather application combining real-time forecasts with weather-base
 
 [Live Project](https://ss-weather-app.vercel.app) · [Source Code](https://github.com/SobiahSelvarajah/ss-weather-app)
 
-## Development Approach
+## How I Like to Build ✨
 
-- Build responsive interfaces around clear user journeys
+- Create responsive interfaces around clear and welcoming user journeys
 - Keep components and project data reusable and maintainable
 - Treat server-side validation and database constraints as the source of truth
-- Design for loading, success, empty and error states
+- Design thoughtfully for loading, success, empty and error states
 - Consider accessibility throughout the interface
-- Use real project challenges to strengthen both frontend and backend skills
+- Use real project challenges as opportunities to strengthen both frontend and backend skills
 
-## Let's Connect
+## Let's Connect 💌
 
-I'm open to full-stack and frontend development opportunities where I can contribute to useful products and continue growing within a collaborative team.
+I'm open to full-stack and frontend development opportunities where I can contribute to useful products, solve interesting problems and continue growing within a supportive, collaborative team.
 
-- 🌐 [Portfolio](https://sobiah.com)
-- ✉️ [Email me](mailto:sobiahselvarajah@hotmail.com)
-
-<!--
-**SobiahSelvarajah/SobiahSelvarajah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 [Explore my portfolio](https://sobiah.com)
+- ✉️ [Send me an email](mailto:sobiahselvarajah@hotmail.com)
