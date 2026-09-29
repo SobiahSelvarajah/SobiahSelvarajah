@@ -39,6 +39,31 @@ I'm currently seeking a development opportunity where I can contribute meaningfu
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 
+## Featured Projects
+
+### 📚 BookDrop
+
+A full-stack book recommendation subscription service with genre-based signups, database persistence, server-side validation and transactional confirmation emails.
+
+**Built with:** Next.js, TypeScript, Prisma, MySQL, React Hook Form, Zod and Resend
+
+[Live Project](https://ss-bookdrop.vercel.app) · [Source Code](https://github.com/SobiahSelvarajah/ss-bookdrop)
+
+### 🏺 Kiln & Clay
+
+A full-stack pottery studio discovery and booking platform with an interactive calendar, capacity-aware reservations and automated email confirmations.
+
+**Built with:** Next.js, TypeScript, Prisma, PostgreSQL, React Email and Resend
+
+[Live Project](https://ss-pottery-class-booking.vercel.app) · [Source Code](https://github.com/SobiahSelvarajah/ss-pottery-class-booking)
+
+### 🌦️ Weather Forecast
+
+A responsive weather application combining real-time forecasts with weather-based activity suggestions and Spotify music recommendations.
+
+**Built with:** Next.js, TypeScript, Tailwind CSS, OpenWeather API and Spotify Embeds
+
+[Live Project](https://ss-weather-app.vercel.app) · [Source Code](https://github.com/SobiahSelvarajah/ss-weather-app)
 
 <!--
 **SobiahSelvarajah/SobiahSelvarajah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
