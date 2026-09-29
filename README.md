@@ -74,6 +74,13 @@ A responsive weather application combining real-time forecasts with weather-base
 - Consider accessibility throughout the interface
 - Use real project challenges to strengthen both frontend and backend skills
 
+## Let's Connect
+
+I'm open to full-stack and frontend development opportunities where I can contribute to useful products and continue growing within a collaborative team.
+
+- 🌐 [Portfolio](https://sobiah.com)
+- ✉️ [Email me](mailto:sobiahselvarajah@hotmail.com)
+
 <!--
 **SobiahSelvarajah/SobiahSelvarajah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
