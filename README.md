@@ -65,6 +65,15 @@ A responsive weather application combining real-time forecasts with weather-base
 
 [Live Project](https://ss-weather-app.vercel.app) · [Source Code](https://github.com/SobiahSelvarajah/ss-weather-app)
 
+## Development Approach
+
+- Build responsive interfaces around clear user journeys
+- Keep components and project data reusable and maintainable
+- Treat server-side validation and database constraints as the source of truth
+- Design for loading, success, empty and error states
+- Consider accessibility throughout the interface
+- Use real project challenges to strengthen both frontend and backend skills
+
 <!--
 **SobiahSelvarajah/SobiahSelvarajah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
